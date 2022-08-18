@@ -1,0 +1,12 @@
+
+    td,
+    th {
+        border: 1px solid brown;
+        border-collapse: collapse;
+        padding: 30px;
+        word-spacing: 20px;
+        background-color: red;
+    }
+h1{
+    color: blueviolet;
+}
